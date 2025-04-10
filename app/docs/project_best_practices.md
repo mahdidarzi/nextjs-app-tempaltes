@@ -19,3 +19,8 @@
 
 ✅ **Good:** Ensure your site uses HTTPS for secure communication.  
 ❌ **Bad:** Using HTTP, exposing data to man-in-the-middle attacks.
+
+## Avoid Client-Side Authorization
+
+✅ **Good**: Perform critical authorization checks on the **server-side**.  
+❌ **Bad**: Relying on **client-side** authorization checks alone.
