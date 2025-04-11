@@ -24,3 +24,9 @@
 
 ✅ **Good**: Perform critical authorization checks on the **server-side**.  
 ❌ **Bad**: Relying on **client-side** authorization checks alone.
+
+# 📦 Code Quality Best Practices  
+## Consistent Code Style
+
+✅ **Good:** Use **ESLint** and **Prettier** for consistent code style.  
+❌ **Bad:** Inconsistent code style and formatting.
