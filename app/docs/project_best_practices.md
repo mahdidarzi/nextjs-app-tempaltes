@@ -30,3 +30,8 @@
 
 ✅ **Good:** Use **ESLint** and **Prettier** for consistent code style.  
 ❌ **Bad:** Inconsistent code style and formatting.
+
+## No Magic Numbers or Strings
+
+✅ Good: Use constants or enums for repeated values.  
+❌ Bad: Hardcoding values directly in the codebase.
